@@ -1,0 +1,4 @@
+output/**
+node_modules/**
+source/flow-typed/**
+source/widget/polyfills/**
