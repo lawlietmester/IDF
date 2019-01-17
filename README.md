@@ -2,7 +2,7 @@
 
 1. `npm ci`
 2. `npm run gulp`
-3. Get code in the folder `target`
+3. Get code in the folder `output`
 
 
 # What is not done, but can be done
@@ -17,6 +17,7 @@
 * Some sort of usage errors not covered (double `render()` call on the same element)
 * Prevent initial widget jump by specifying the logo image height
 * Add `clean` task 
+* Make universal module definition, not only global class
 
 
 # Browser support
